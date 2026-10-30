@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "onenet.h": "c",
+    "esp8266.h": "c",
+    "beep.h": "c"
+  }
+}
